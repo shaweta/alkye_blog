@@ -95,3 +95,26 @@ Brief explanation of endpoints:
  
 You can use  VSCode thunder client or postman to interact with the apis and to get access of apiyou need to give Token in Header 
 Adding Pictures of my Tests using thunderclient
+## Post list -Get Request(with token Authenication)
+![postget](https://github.com/shaweta/alkye_blog/assets/17871651/e1814e4c-b0ae-4a12-98c3-370f7b0af162)
+
+## Post Instance -Get Request(with Authenication)
+
+![post instance](https://github.com/shaweta/alkye_blog/assets/17871651/f37d1268-feb3-4584-9b54-207b530e9449)
+
+## Post create -Post Request(with Authenication)
+
+![createpost](https://github.com/shaweta/alkye_blog/assets/17871651/5402d9d4-c278-4e7b-b415-129191d85c4b)
+
+## Post commentlist -Get Request(with Authenication)
+
+![getcomment](https://github.com/shaweta/alkye_blog/assets/17871651/dd79190f-6ed4-4cda-8cd1-d00915553908)
+
+## Post comment Instance -Get Request(with Authenication)
+![get comment](https://github.com/shaweta/alkye_blog/assets/17871651/4b4707b1-8362-4b76-8b90-a1324a3699da)
+
+## Post Comment create -Post Request(with Authenication)
+![commentcreate](https://github.com/shaweta/alkye_blog/assets/17871651/c71c11f7-7591-4161-9469-ade64893cd48)
+## Post Comment delete -Delete Request(with Authenication)
+
+![delete](https://github.com/shaweta/alkye_blog/assets/17871651/f4855313-369d-4516-8c98-4e667076b262)
